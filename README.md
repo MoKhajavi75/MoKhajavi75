@@ -13,17 +13,24 @@
 <h1 align="center">Connect with me:</h1>
 
 <p align="center">
-  <a href="https://dev.to/mohamadkh75" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamadkh75" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/mohamadkh75" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamadkh75" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/mohamadkh75" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamadkh75" height="30" width="40" />
+    <img align="center" src="assets/linkedin.svg" alt="linkedin" height="50" width="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/4565015" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4565015" height="30" width="40" />
+    <img align="center" src="assets/stackoverflow.svg" alt="stackoverflow" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/mohamadkh75" target="_blank">
+    <img align="center" src="assets/twitter.svg" alt="twitter" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/mohamadkh75" target="_blank">
+    <img align="center" src="assets/DEV.svg" alt="dev.to" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://goodreads.com/mohamadkh75" target="_blank">
+    <img align="center" src="assets/goodreads.svg" alt="goodreads" height="50" width="50" />
   </a>
 </p>
 
