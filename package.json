@@ -1,0 +1,27 @@
+{
+  "name": "mohamadkh75",
+  "version": "1.0.0",
+  "description": "Mohamad Khajavi",
+  "type": "module",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "bin": {
+    "mohamadkh75": "src/index.js"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  },
+  "author": {
+    "name": "Mohamad Khajavi",
+    "email": "khajavi.contact@gmail.com",
+    "url": "https://www.linkedin.com/in/mohamadkh75"
+  },
+  "keywords": [
+    "mohamadkh75",
+    "MohamadKh75"
+  ],
+  "license": "MIT"
+}
